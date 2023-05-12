@@ -1,4 +1,4 @@
-![PCB 3d main](media/main.png)
+![PCB 3d main](media/main.jpg)
 
 This is ESP-01 interface to connect with the [esp-flasher](http://esp-flasher.makerspace.lt/repo).
 
